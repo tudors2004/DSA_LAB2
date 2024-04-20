@@ -1,0 +1,3 @@
+G:/Proiecte C++/DSA LAB2/cmake-build-debug/CMakeFiles/DSA_LAB2.dir
+G:/Proiecte C++/DSA LAB2/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Proiecte C++/DSA LAB2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
