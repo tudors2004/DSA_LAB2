@@ -14,4 +14,5 @@ int main() {
 	testTranspusa();
 	cout << "Test End" << endl;
 	system("pause");
+	cout<< "Salut" << endl;
 }
